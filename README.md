@@ -29,5 +29,5 @@ $ ./philo
 - The Linux Programming Interface: Chapters 29-33
 - Advanced Programming in the Unix Environment: Chapters 11-12
 
-##N.B.
+## NB
 Project done with Travis Matthews.
