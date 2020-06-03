@@ -7,7 +7,7 @@ Our program assumes that *make*, *ncurses* and *pthreads* are both installed and
 
 ## USAGE
 
-The *eating*, *resting*, and  *feeding*,times of the philosopers are controlled by the macros `TIME_EAT`, `TIME_REST`, `TIME_THINK` inside `includes/philo.h`. Altering these values will change the behavior of the philosophers. 
+The *eating*, *resting*, and  *feeding* times of the philosopers are controlled by the macros `TIME_EAT`, `TIME_REST`, `TIME_THINK` inside `includes/philo.h`. Altering these values will change the behavior of the philosophers. 
 ```
 # Compile the program
 $ make
